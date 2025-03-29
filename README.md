@@ -55,7 +55,7 @@ Develop a comprehensive report for the following exercises:
 •	**Marketing & Advertising** – Helps create ad copies, product descriptions, and promotional content for brands.
 
 
-**4.	Generative AI impact of scaling in LLMs**
+### 4.	Generative AI impact of scaling in LLMs
                                                Scaling in Large Language Models (LLMs) refers to increasing the model size, training data, and computational resources to improve performance. As LLMs grow, they become more powerful in understanding and generating human-like text, enhancing their applications in various domains. However, scaling also presents challenges such as higher computational costs and ethical concerns.
 
 **Impacts of Scaling in LLMs:**
