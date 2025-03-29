@@ -56,7 +56,7 @@ Develop a comprehensive report for the following exercises:
 
 
 ### 4.	Generative AI impact of scaling in LLMs
-                                               Scaling in Large Language Models (LLMs) refers to increasing the model size, training data, and computational resources to improve performance. As LLMs grow, they become more powerful in understanding and generating human-like text, enhancing their applications in various domains. However, scaling also presents challenges such as higher computational costs and ethical concerns.
+   Scaling in Large Language Models (LLMs) refers to increasing the model size, training data, and computational resources to improve performance. As LLMs grow, they become more powerful in understanding and generating human-like text, enhancing their applications in various domains. However, scaling also presents challenges such as higher computational costs and ethical concerns.
 
 **Impacts of Scaling in LLMs:**
 •	**Improved Performance & Accuracy** – Larger models have better comprehension, contextual understanding, and response generation.
